@@ -117,21 +117,4 @@ public class MessageControl {
         return "ID_" + System.currentTimeMillis();
     }
 }
-//}
-//        String sql = "SELECT data FROM images WHERE id = ?";
-//        PreparedStatement statement = conn.prepareStatement(sql);
-//        statement.setInt(1, 1);
-//        ResultSet rs = statement.executeQuery();
-//        if (rs.next()) {
-    //        byte[] data = rs.getBytes("data");
-    //        File files = new File("path/to/new/image.jpg");
-    //        FileOutputStream fos = new FileOutputStream(file);
-    //        fos.write(data);
-    //        fos.close();
-//        }
-//        conn.close();
-
-//        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-//        ImageIO.write(image, "jpg", baos);
-//        byte[] imageData = baos.toByteArray();
 
