@@ -11,10 +11,7 @@ import java.net.SocketTimeoutException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Phong
- */
+
 public class SocketGreetingServer extends Thread {
 
     private final ServerSocket serverSocket;

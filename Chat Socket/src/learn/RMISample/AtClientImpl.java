@@ -1,5 +1,4 @@
 package learn.RMISample;
-
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 

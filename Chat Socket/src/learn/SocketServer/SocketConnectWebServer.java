@@ -9,11 +9,6 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-/**
- *
- * @author Phong
- */
 public class SocketConnectWebServer {
 
     public static void main(String[] args) {

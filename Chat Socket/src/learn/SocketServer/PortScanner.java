@@ -6,11 +6,6 @@ package learn.SocketServer;
 
 import java.io.IOException;
 import java.net.Socket;
-
-/**
- *
- * @author Phong
- */
 public class PortScanner {
 
     public static void main(String[] args) {

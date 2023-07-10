@@ -1,13 +1,7 @@
 package learn.InOutStream;
-
 import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
-/**
- *
- * @author Phong
- */
 public class InStream1 {
     public static void main(String[] args) {
         InputStream is = System.in; // get keyboard input

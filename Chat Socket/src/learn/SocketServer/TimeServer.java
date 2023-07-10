@@ -13,10 +13,7 @@ import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Phong
- */
+
 public class TimeServer {
 
     public static void main(String[] args) {
