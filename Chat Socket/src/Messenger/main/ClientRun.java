@@ -1,6 +1,6 @@
 package Messenger.main;
 
-import Messenger.control.*;
+import Messenger.controller.*;
 
 public class ClientRun {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Messenger.control;
+package Messenger.controller;
 import Messenger.model.*;
 import Messenger.view.*;
 import java.awt.event.ActionEvent;

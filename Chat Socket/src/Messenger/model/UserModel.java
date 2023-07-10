@@ -65,11 +65,7 @@ public class UserModel implements Serializable {
         this.password = password;
     }
 
-    public Icon getImg() {
-        return img;
-    }
-
-    public void setImg(String imgPath) {
+    public void setImg(byte[] imgPath) {
         this.img = new ImageIcon("./src/Messenger/img/" + imgPath);
     }
 
@@ -101,4 +97,7 @@ public class UserModel implements Serializable {
         this.loggin = loggin;
     }
 
+    public byte[] getImg() {
+        return getImg();
+    }
 }

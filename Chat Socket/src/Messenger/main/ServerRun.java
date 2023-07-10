@@ -1,5 +1,5 @@
 package Messenger.main;
-import Messenger.control.*;
+import Messenger.controller.*;
 public class ServerRun {
 
     public static void main(String[] args) {

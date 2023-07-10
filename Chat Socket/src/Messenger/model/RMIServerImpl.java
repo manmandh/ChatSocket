@@ -1,5 +1,5 @@
 package Messenger.model;
-import Messenger.control.ServerControl;
+import Messenger.controller.ServerControl;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.NotBoundException;

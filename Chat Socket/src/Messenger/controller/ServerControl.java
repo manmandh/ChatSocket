@@ -1,4 +1,4 @@
-package Messenger.control;
+package Messenger.controller;
 import Messenger.model.*;
 import java.io.IOException;
 import java.io.InputStream;
